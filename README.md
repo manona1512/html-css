@@ -1,2 +1,2 @@
 # html-css
-this a frontend mentor challange
+this a frontend mentor challange [easy]
